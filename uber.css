@@ -1,0 +1,217 @@
+.header img{
+    width: 75px;
+}
+.header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.htext{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin-right: 850px;
+    gap: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+
+}
+
+.htext2{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    padding-top: 10px;
+    cursor: pointer;
+    
+}
+
+.page1{
+    height: 1000px;
+    background-color: black;
+    color: white;
+    display: flex;
+    gap: 150px;
+    padding-left: 250px;
+    font-size: 30px;
+    padding-top: 70px;
+}
+.hpar{
+    font-size: 18px;
+}
+.hdrtext{
+    margin-top: 250px;
+}
+
+.hdbutton{
+    margin-top: 30px;
+    width: 150px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 0;
+    background-color: white;
+}
+
+*{
+    margin: 0;
+    
+    
+}
+
+.button1{
+    border: 0;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    margin-right: 10px;
+    width: 150px;
+    height: 60px;
+    font-size: 19px;
+
+}
+.page2{
+    display: flex;
+    justify-content: center;
+    gap: 175px;
+    padding: 64px;
+    padding-right: 100px;
+    
+}
+.img2{
+    width: 10px;
+    height: 10px;
+    
+
+}
+.link1{
+    color: black;
+    font-size: 20px;
+    margin-left: 15px;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.page3{
+    display: flex;
+    justify-content: center;
+    padding: 64px;
+    gap: 170px;
+    
+}
+.link2{
+    color: black;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.page4{
+    padding: 64px;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    padding-right: 100px;
+}
+.page5{
+    
+    height: 350px;
+    background-color: whitesmoke;
+    padding: 64px;
+
+}
+.scan1{
+    display: flex;
+    background-color: white;
+    padding: 30px;
+}
+.scan2{
+    display: flex;
+    background-color: white;
+    padding: 30px;
+
+}
+.scanners{
+    display: flex;
+    gap: 50px;
+    padding-left: 150px;
+
+}
+.arrow{
+    width: 20px;
+    height: 20px;
+    padding-top: 80px;
+    padding-left: 30px;
+}
+.page6{
+    background-color: black;
+    
+    padding-left: 250px;
+    padding-top: 150px;
+    
+    
+}
+.logo{
+    width: 75px;
+    margin-bottom: 50px;
+    
+}
+.text-logo{
+    color: white;
+    margin-bottom: 100px;
+    
+}
+.texts{
+    color: white;
+}
+.space{
+    margin-bottom: 20px;
+}
+.texts{
+    display: flex;
+    
+    gap: 200px;
+}
+.logos{
+    display: flex;
+    justify-content: space-between;
+}
+.ftext{
+    color: white;
+    margin-right: 300px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 50px;
+    
+} 
+.store{
+    width: 150px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+
+}
+.last{
+    color: gray;
+    margin-top: 100px;
+    font-size: 14px;
+    display: flex;
+    
+
+}
+.lasttext{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 900px;
+    gap: 50px;
+    padding-bottom: 100px;
+    
+
+}
